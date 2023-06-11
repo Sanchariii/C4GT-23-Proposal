@@ -13,7 +13,7 @@ The asynchronous nature of uploading and processing document chunks underlies th
 Keywords: Asynchronous, Document Uploader, API, NLP, Scalable
 
 
-You can check the full proposal here : [Sanchari Ray C4GT 2023 Proposal](https://drive.google.com/file/d/1BfMJC5FXtjOumBwWug5AjnG_R2U4ekbc/view?usp=sharing)
+You can check the full proposal here : [Sanchari Ray C4GT 2023 Proposal](https://drive.google.com/file/d/1N-aeZRIrF57aO3yKJRNPxS6in0xSMOAa/view?usp=sharing)
 
 
 
