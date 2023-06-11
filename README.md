@@ -1,5 +1,7 @@
 # C4GT'23-Proposal
 
+Proposal for [C4GT](https://www.codeforgovtech.in/) 2023 | Project Idea : Document Uploader | Date: 11 June 2023
+
 # Synopsis
 
 In today's technological environment, AI tools have become crucial. These tools make use of machine learning and artificial intelligence to improve decision-making, automate tasks, and draw conclusions from data. AI technologies provide a wide range of functions that streamline complex operations and spur innovation across industries, from natural language processing to computer vision. Machines are now capable of comprehending, analysing, and producing human language thanks to Natural Language Processing (NLP) techniques. They make text classification, sentiment analysis, and language translation easier.
@@ -10,8 +12,9 @@ The asynchronous nature of uploading and processing document chunks underlies th
 
 Keywords: Asynchronous, Document Uploader, API, NLP, Scalable
 
-# Purpose:
+You can check the full proposal here : [Sanchari Ray C4GT 2023 Proposal](https://drive.google.com/file/d/1BfMJC5FXtjOumBwWug5AjnG_R2U4ekbc/view?usp=sharing)
 
-This is a proposal for C4GT'23 Open Source Program for the Project Idea : Document Uploader
- 
+# Thanking Note:
+
+I want to express my sincere gratitude to all the mentors involved and the entire community for giving me the chance to work on such a creative project. I'll make an effort to give this community everything I've got. Thank you for putting up with all of my questions while I was writing this proposal, and I appreciate you all providing mentorship and direction as we develop our knowledge and talents. I'm eager to learn new things and look forward to the beautiful trip that lies ahead. 
 
